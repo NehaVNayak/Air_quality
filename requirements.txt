@@ -2,6 +2,9 @@ streamlit
 pandas
 numpy
 plotly
-prophet
 matplotlib
+seaborn
+prophet
+cmdstanpy
+pystan
 streamlit-option-menu
