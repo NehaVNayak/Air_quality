@@ -14,3 +14,4 @@ pystan==3.10.0
 
 # Sidebar menu
 streamlit-option-menu==0.3.6
+statsmodels==0.14.4
