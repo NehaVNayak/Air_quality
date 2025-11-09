@@ -1,10 +1,15 @@
-streamlit
-pandas
-numpy
-plotly
-matplotlib
-seaborn
-prophet
-cmdstanpy
-pystan
-streamlit-option-menu
+# === Core Dependencies ===
+streamlit==1.38.0
+pandas==2.2.3
+numpy==1.26.4
+plotly==5.24.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# === Forecasting (Prophet) ===
+prophet==1.1.5
+cmdstanpy==1.2.4
+pystan==3.10.0
+
+# === UI Enhancements ===
+streamlit-option-menu==0.3.6
